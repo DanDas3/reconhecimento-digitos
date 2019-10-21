@@ -1,0 +1,7 @@
+The CVL Digit Strings dataset uses 10 different digit strings from a total of about 120 writers resulting in 1262 training images. The digits from the CVL Single Digit dataset were extracted from these strings.
+
+File Naming:
+The numbers before the first minus are the respective class labels succeeded by an unique ID.
+
+	* 2-0202-21-04.png is an image that contains a single digit with groundtruth 2
+	* 135579-0001-10.png is an image that contains the digit string 135579
